@@ -1,1 +1,1 @@
-BaseArchitecture_Landingpage
+Landingpage
